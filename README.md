@@ -34,9 +34,9 @@ Welcome to my GitHub profile! I am a passionate Full-Stack Developer dedicated t
 
 ### 📫 Connect with Me
 
-- **LinkedIn:** [Your LinkedIn Profile Link]
-- **Email:** [Your Email Address]
-- **Telegram:** [@YourUsername]
+- **LinkedIn:** [www.linkedin.com/in/serhii-panov]
+- **Email:** [suboxoneforhelp@gmail.com]
+- **Telegram:** [@hdoxbs]
 
 ---
 
